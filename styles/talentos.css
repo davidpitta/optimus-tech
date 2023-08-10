@@ -1,0 +1,30 @@
+.talentos {
+    margin: 10em 2em 3em;
+    text-align: center;
+}
+
+.talentos__titulo {
+    color: var(--vermelho);
+    font-size: 14px;
+    font-weight: 500;
+    padding: 0.5em;
+    background: rgba(142, 36, 36, 0.05);
+    display: inline-block;
+    border-radius: 16px;
+}
+
+.talentos__subtitulo {
+    font-size: 36px;
+    font-weight: 600;
+    margin: 0.5em 0;
+}
+
+.talentos__texto {
+    font-size: 20px;
+    color: var(--cinza-claro);
+}
+
+.talentos__imagem {
+    width: 92%;
+    margin: 4em 3em 0;
+}

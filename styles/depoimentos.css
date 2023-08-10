@@ -1,0 +1,36 @@
+.depoimentos {
+    text-align: center;
+    padding: 0 7em;
+    margin: 5em 0;
+}
+
+.depoimentos__container {
+    background: rgba(196, 25, 25, 0.03);
+    border-radius: 16px;
+    padding: 5em;
+}
+
+.depoimentos__container-titulo {
+    color: var(--vermelho);
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.depoimentos__container-texto {
+    color: var(--cinza-escuro);
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 1.2em;
+    margin: 0.5em 0 1em;
+}
+
+.depoimentos__container-nome {
+    color: var(--cinza-escuro);
+    font-weight: 500;
+    margin: 0.5em;
+}
+
+.depoimentos__container-funcao {
+    color: var(--cinza-claro);
+    font-size: 14px;
+}

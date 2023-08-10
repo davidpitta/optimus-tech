@@ -1,0 +1,40 @@
+.vagas__container {
+    margin: 2em 30vw 0;
+}
+
+.vagas__container-titulo {
+    font-size: 20px;
+    font-weight: 500;
+    color: var(--cinza-escuro);
+    display: inline-block;
+    margin: 1em;
+}
+
+.vaga {
+    border: 1px solid var(--borda);
+    border-radius: 16px;
+    padding: 1.5em 1em;
+    margin: 1em;
+}
+
+.vaga__titulo {
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--cinza-escuro);
+    display: block;
+}
+
+.vaga__informacoes {
+    font-weight: 500;
+    color: var(--cinza-claro);
+    margin-top: 1em;
+}
+
+.vaga__periodo {
+    display: inline-block;
+    padding: 1em 1em 0 0;
+}
+
+.vaga__salario {
+    display: inline-block;
+}

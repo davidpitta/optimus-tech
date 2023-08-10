@@ -1,0 +1,23 @@
+.sobre {
+    text-align: center;
+    padding: 5em 20vw;
+}
+
+.sobre__titulo {
+    font-weight: 600;
+    color: var(--vermelho);
+}
+
+.sobre__subtitulo {
+    color: var(--cinza-escuro);
+    font-weight: 600;
+    font-size: 48px;
+    margin: 0.7em 0;
+}
+
+.sobre__texto {
+    color: var(--cinza-claro);
+    font-size: 20px;
+    padding: 0 3em;
+    line-height: 1.5em;
+}
